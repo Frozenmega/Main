@@ -1,1 +1,2 @@
 # Main
+Informacion del grupo
